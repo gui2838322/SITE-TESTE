@@ -4,7 +4,7 @@ Landing page de hamburgueria e pizzaria. Artesanal. Quente. Irresistível.
 
 ## Como abrir
 
-Abra o arquivo `index.html` no navegador. Não precisa instalar nada.
+Site estático publicado na Vercel. Para testar no computador, abra o `index.html` com uma extensão de servidor local (ex.: Live Server do VS Code), porque as fotos usam caminhos a partir da raiz (`/img/...`).
 
 ## O que tem na página
 
@@ -19,7 +19,7 @@ Abra o arquivo `index.html` no navegador. Não precisa instalar nada.
 
 - HTML, CSS e JavaScript puro, num arquivo só
 - Fontes Anton e Inter (Google Fonts)
-- Fotos geradas por IA, otimizadas em WebP e embutidas no HTML
+- Fotos geradas por IA, otimizadas em WebP na pasta `img/`
 
 ## Cores do Design System
 
